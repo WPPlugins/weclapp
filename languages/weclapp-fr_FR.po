@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: weclapp\n"
+"POT-Creation-Date: 2015-09-08 11:24+0200\n"
+"PO-Revision-Date: 2015-09-08 11:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/wc-send.php:20 includes/wc-send.php:111
+msgid "Bitte geben Sie Ihren Namen ein"
+msgstr "S'il vous plaît entrer votre nom"
+
+#: includes/wc-send.php:23 includes/wc-send.php:114
+msgid "Bitte geben Sie Ihren Vor -und Nachnamen ein"
+msgstr "S'il vous plaît entrer votre pré- et prénom"
+
+#: includes/wc-send.php:30 includes/wc-send.php:120
+msgid "Bitte geben Sie Ihre Email-Adresse ein"
+msgstr "S'il vous plaît entrez votre adresse e -mail"
+
+#: includes/wc-send.php:33 includes/wc-send.php:123
+msgid "Bitte geben Sie eine gültige Email-Adresse ein"
+msgstr "S'il vous plaît entrer une adresse email valide"
+
+#: includes/wc-send.php:38
+msgid "Bitte geben Sie eine gültige Telefonnummer ein"
+msgstr "S'il vous plaît entrez un numéro de téléphone valide"
+
+#: includes/wc-send.php:51
+msgid "Bitte geben Sie einen Betreff an"
+msgstr "S'il vous plaît entrer une ligne d'objet à"
+
+#: includes/wc-send.php:90
+msgid "Ihre Anfrage wurde erfolgreich gesendet."
+msgstr "Votre demande a bien été envoyé ."
+
+#: includes/wc-send.php:138
+msgid "Bitte wählen Sie eine Kampagne"
+msgstr "S'il vous plaît sélectionner une campagne"
+
+#: includes/wc-send.php:158
+msgid ""
+"Sie sind unter Ihrer E-Mail-Adresse für diese Kampagne bereits angemeldet: "
+msgstr ""
+"Sie sind unter Ihrer E-Mail-Adresse für diese Kampagne bereits angemeldet:  "
+
+#: includes/wc-send.php:280
+msgid ""
+"Fehler 404: Ungültiger Domain-Name. Bitte kontaktieren Sie den Webmaster"
+msgstr ""
+"Erreur 404 : Invalid nom de domaine . S'il vous plaît contacter le webmestre "
+
+#: includes/wc-send.php:282
+msgid "Fehler 401: Ungültiger API Token. Bitte kontaktieren Sie den Webmaster"
+msgstr ""
+"Fehler 401: Ungültiger API Token. Bitte kontaktieren Sie den Webmaster  "
+
+#: includes/wc-send.php:293
+msgid "Wordpress HTTP Fehler. Bitte kontaktieren Sie den Webmaster"
+msgstr "WordPress erreur HTTP . S'il vous plaît contacter le webmestre"
+
+#: weclapp.php:52
+msgid "weclapp Einstellungen"
+msgstr "Réglages weclapp"
+
+#: weclapp.php:107
+msgid "Allgemeine Einstellungen"
+msgstr "Paramètres généraux"
+
+#: weclapp.php:114
+msgid "Kampagnen Einstellungen"
+msgstr "Paramètres de campagne"
+
+#: weclapp.php:121
+msgid "API Token *"
+msgstr "API jeton *"
+
+#: weclapp.php:129
+msgid "Domain Name *"
+msgstr "Nom de domaine *"
+
+#: weclapp.php:136
+msgid "Neue Benutzer anlegen als"
+msgstr "Créez un nouvel utilisateur que"
+
+#: weclapp.php:143
+msgid "Benutzerdefinierte Erfolgsmeldung"
+msgstr "Message de réussite personnalisé"
+
+#: weclapp.php:150
+#, php-format
+msgid ""
+"Benutzerdefinierte Mitteilung, falls keine Kampagne ansteht (%s ist der "
+"Platzhalter für den Kampagnentyp)"
+msgstr ""
+"Message personnalisé si aucune campagne est en cours ( %s est l' espace "
+"réservé pour le type de campagne )"
+
+#: weclapp.php:171
+msgid "Bitte geben Sie Ihren weclapp API Token sowie Ihren Domain-Namen ein."
+msgstr ""
+"S'il vous plaît entrer votre clé API de weclapp et votre nom de domaine ."
+
+#: weclapp.php:207
+msgid "Kontakt"
+msgstr "contact"
+
+#: weclapp.php:208
+msgid "Interessent"
+msgstr "client potentiel"
+
+#: weclapp.php:209
+msgid "Kunde"
+msgstr "client"
+
+#: weclapp.php:253
+msgid "Veranstaltung"
+msgstr "événement"
+
+#: weclapp.php:257 weclapp.php:288
+msgid "Webinar"
+msgstr "webinaire"
+
+#: weclapp.php:261
+msgid "Ausstellung"
+msgstr "exposition"
+
+#: weclapp.php:265
+msgid "Öffentlichkeitsarbeit"
+msgstr "relations publiques"
+
+#: weclapp.php:269
+msgid "Anzeige"
+msgstr "publicité"
+
+#: weclapp.php:273
+msgid "Postwurfsendung"
+msgstr "mailing de masse"
+
+#: weclapp.php:277
+msgid "E-Mail"
+msgstr "E -mail"
+
+#: weclapp.php:281
+msgid "Telemarketing"
+msgstr "télémarketing"
+
+#: weclapp.php:285
+msgid "Andere"
+msgstr "autre"
+
+#: weclapp.php:316
+#, php-format
+msgid "Dauer ca. %1$s Min. | Nächster Termin: %2$s Uhr"
+msgstr "Durée environ %1$s min | Prochaine date: horloge %2$s"
+
+#: weclapp.php:322
+msgid "Inhalt"
+msgstr "teneur"
+
+#: weclapp.php:330
+msgid "Name"
+msgstr "nom"
+
+#: weclapp.php:338 weclapp.php:388
+msgid "Telefonnummer"
+msgstr "numéro de téléphone"
+
+#: weclapp.php:341
+msgid "Anmelden"
+msgstr "Inscription"
+
+#: weclapp.php:370
+msgid "*Name"
+msgstr "*nom"
+
+#: weclapp.php:381
+msgid "Weitere Empfänger"
+msgstr "autre bénéficiaire"
+
+#: weclapp.php:399
+msgid "Kategorie"
+msgstr "catégorie"
+
+#: weclapp.php:401
+msgid "Bitte auswählen"
+msgstr "S'il vous plaît sélectionnez"
+
+#: weclapp.php:418
+msgid "*Priorität"
+msgstr "*priorité"
+
+#: weclapp.php:429
+msgid "*Betreff"
+msgstr "*regard"
+
+#: weclapp.php:433
+msgid "Beschreibung"
+msgstr "description"
+
+#: weclapp.php:436
+msgid "Senden"
+msgstr "envoyer"
+
+#: weclapp.php:489
+msgid "Sie wurden erfolgreich an der Kampagne angemeldet"
+msgstr "Vous avez été connecté avec succès à la campagne "
+
+#: weclapp.php:497
+#, php-format
+msgid ""
+"In der nächsten Zeit sind noch keine Kampagnen vom Typ %s angesetzt. Schauen "
+"Sie später nochmal vorbei"
+msgstr ""
+"Dans un proche avenir aucun des campagnes de type %s ne sont pas reconnus . "
+"Revenez encore une fois"
+
+#~ msgid "Priorität"
+#~ msgstr "priorité"
+
+#~ msgid "Betreff"
+#~ msgstr "regard"
+
+#~ msgid "Bitte geben Sie Ihre Telefonnummer ein"
+#~ msgstr "S'il vous plaît entrer votre numéro de téléphone"
+
+#~ msgid "Sie wurden erfolgreich an der Kampagne angemeldet!"
+#~ msgstr "Vous avez été connecté avec succès à la campagne "
+
+#~ msgid ""
+#~ "In der nächsten Zeit sind noch keine Kampagnen vom Typ %s angesetzt. "
+#~ "Schauen Sie später nochmal vorbei!"
+#~ msgstr ""
+#~ "Dans un proche avenir aucun des campagnes de type %s ne sont pas "
+#~ "reconnus . Revenez encore une fois"
